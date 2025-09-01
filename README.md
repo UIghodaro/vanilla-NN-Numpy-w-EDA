@@ -22,7 +22,7 @@ The dataset is downloaded
 This project uses the Kaggle API to download the Telco Customer Churn dataset. To get started:
 
 1. **Obtain your API token**  
-   - Go to [Kaggle → My Account → API] (https://www.kaggle.com/), click “Create New API Token,” and download the `kaggle.json` file.
+   - Go to [Kaggle → Settings → Account → API] (https://www.kaggle.com/), click 'Create New Token' to download the `kaggle.json` file.
 
 2. **Create necessary folders and place your token in the project**  
    - Create 2 directories `.kaggle` and `data/raw` in the root of the repo:  
