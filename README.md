@@ -1,5 +1,7 @@
 # Vanilla Neural Network with Exploral Data Analysis on Finance Dataset
- A Personal Project created with the aim of properly understanding the workings of NNs in practice, as well as to self-teach numpy, pandas, matplotlib and basic data analysis techniques.
+ A Personal Project created with the aim of properly understanding the workings of NNs in practice, as well as to self-teach numpy, pandas, matplotlib and basic data analysis techniques.\
+ **Disclaimer:** *Due to this project being done from a learner's perspective, the Exploral Data Analysis notebook may read as one of someone making findings in how pandas and matplotplib works alongside data findings - rather than a succinct, workplace ready data analysis.*\
+Of course, the notebook is still cleaned for concisety.
 
 # Dependencies
 Numpy, Pandas, Kagglehub with Pandas adapter 
