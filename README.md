@@ -3,16 +3,6 @@
  **Disclaimer:** *Due to this project being done from a learner's perspective, the Exploral Data Analysis notebook may read as one of someone making findings in how pandas and matplotplib works alongside data findings - rather than a succinct, workplace ready data analysis.*\
 Of course, the notebook is still cleaned for concisety.
 
-# Dependencies
-Numpy, Pandas, Kagglehub with Pandas adapter 
-
-Specifically for EDA (Exploratory Data Analysis):
-Kaggle: "pip install kaggle"
-Jupyter Labs: "pip install jupyterlab"
-Matplotlib: "pip install matplotlib"
-Seaborn: "pip install seaborn"
-
-
 # The Dataset
 Using the Telco Customer Churn dataset found on Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
