@@ -6,6 +6,6 @@
 
 ### Differences between lightly cleaned and engineered csvs
 1. 2 new columns added for classifications:
-    - 'Tenure Bins' [from **x-1** to **x** months] -> '1 Month, 6 Months, 12 Months, 2 years, 4 years'
+    - 'Tenure Bins' [from **x-1** to **x** months] -> '1 Month, 6 Months, 12 Months, 2 years, 4 years' 
     - 'Monthly Charges Bins' [Quartiles] -> 'Low Monthly Charges, Mid Monthly Charges, High Monthly Charges'
     
